@@ -56,7 +56,7 @@ New to CareerOS? Start here:
 
 1. Read [vision.md](vision.md) to understand what we're building
 2. Read [architecture.md](architecture.md) to understand the system
-3. Pick a repo: [careeros-web](https://github.com/career-os/careeros-web) | [careeros-api](https://github.com/career-os/careeros-api) | [careeros-ai](https://github.com/career-os/careeros-ai)
+3. Pick a repo: [careeros-web](https://github.com/Careers-Os/careeros-web) | [careeros-api](https://github.com/Careers-Os/careeros-api) | [careeros-ai](https://github.com/Careers-Os/careeros-ai)
 4. Filter issues by `good-first-issue` and pick one
 
 ---
